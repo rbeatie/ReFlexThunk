@@ -4,9 +4,6 @@ This basic demonsrtration shows an implementation of a Redux dispatch Chain usin
 
 The guide was modified from Redux-Thunk's [Composition](https://github.com/reduxjs/redux-thunk#composition)
 
-### Bugs: 
-
-The **redux-logger** throws an frequent error `Uncaught (in promise) Error: You may not call store.getState() while the reducer is executing. The reducer has already received the state as an argument. Pass it down from the top reducer instead of reading it from the store.`
 
 
 # Twilio Flex UI Sample
