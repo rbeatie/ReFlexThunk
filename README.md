@@ -1,3 +1,11 @@
+# Twilio Flex With Custom Redux and Thunk MiddleWare
+
+Here is a very basic demonsrtration of Twilio Flex implementing a Dispatch Chain using Redux-Thunk.
+
+The guide was modified from Redux-Thunk's [Composition](https://github.com/reduxjs/redux-thunk#composition)
+
+
+
 # Twilio Flex UI Sample
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
